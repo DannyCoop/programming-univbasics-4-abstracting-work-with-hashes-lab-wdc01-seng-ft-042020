@@ -16,4 +16,5 @@ def update_counting_hash(hash, key)
   else
     return nil
   end
+  hash
 end
