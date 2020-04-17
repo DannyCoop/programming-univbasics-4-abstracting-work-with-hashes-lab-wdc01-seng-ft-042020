@@ -3,7 +3,7 @@ def my_hash_creator(key, value)
     :key => value
   }
 end
-one
+
 
 def read_from_hash(hash, key)
   hash[key]
