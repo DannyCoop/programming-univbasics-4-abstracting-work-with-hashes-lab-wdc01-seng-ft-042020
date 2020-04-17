@@ -2,6 +2,7 @@ def my_hash_creator(key, value)
   one = {
     :key => value
   }
+  one
 end
 
 
